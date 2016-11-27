@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BtPrint</string>
+    <string name="actDiscovery_bond_bonded">Bonded</string>
+    <string name="actDiscovery_bond_nothing">Not Bonded</string>
+    <string name="actDiscovery_msg_select_device">Select Printer Device</string>
+    <string name="actDiscovery_msg_not_find_device">No device found</string>
+    <string name="actDiscovery_msg_scaning_device">Scanning Devices</string>
+    <string name="actDiscovery_msg_bluetooth_not_start">Bluetooth not started</string>
+</resources>
